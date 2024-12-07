@@ -18,6 +18,5 @@
 ```plaintext
 Assets/
 └── Scripts/
-    ├── Battle.cs         # バトルロジックを管理するクラス
     ├── Character.cs         # キャラクタークラス
     └── GameCreateSystem.cs  # メインのゲームロジック
